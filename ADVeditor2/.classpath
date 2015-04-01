@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="lib" path="C:/Users/Adonias Caetano/Desenvolvimento/workspace36/ADVeditor2/lib/dsj.jar"/>
+	<classpathentry kind="lib" path="swt-grouplayout.jar" sourcepath="swt-grouplayout.zip"/>
+	<classpathentry kind="lib" path="C:/Users/Adonias Caetano/Desenvolvimento/workspace36/ADVeditor2/lib/swt-win64-3.7.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
